@@ -7,7 +7,7 @@ Below you can find small galery of the best results from these models. For more 
 ![DoublePendulum Image](./Images/DoublePendulum/doublePendulum_0.png "DoublePendulum")
 
 ## Clusters
-There are lot\'s of images in __[Images/Clusters/](.Images/Clusters/)__
+There are lot\'s of images in __[Images/Clusters/](./Images/Clusters/)__
 ![Clusters Image](./Images/Clusters/dla_M2G0C0(92679).bmp "Clusters DLA")  
 ![Clusters Image](./Images/Clusters/dla_M0G3C1(27551).bmp "Clusters DLA customized")  
 ![Clusters Image](./Images/Clusters/snow_1_neighbour(359).bmp "Clusters snowflake")  
