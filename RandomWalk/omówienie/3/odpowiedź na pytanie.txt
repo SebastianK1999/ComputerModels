@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////
+
+    PS D:\Studia\ModK\spacerlosowy> python .\walks\plotEnds.py 1
+    indxe 1 has no values
+    indxe 30 = 16150
+    the chid is around 94.27993101599341
+
+////////////////////////////////////////////////////////////////////
+
+dziecko ma większe prawdopodobieństwo że będzie bliżej 0 (czyli też 1) ALE
+z powodu że z kazdym krokiem niepadzystym przechodzimy na pole nieparzyste [1] = (0+-1 ->-> ( 1|-1))
+a z każdym krokiem parzystym na parzyste [2] = (1+-1 ->-> (1, 3))
+z powodu że mamu parystą ilość kroków, nigdy nie skończymy na niparzystej 1
+w odwrotnym przypadku zawszko kończyliśmy by na nieparzystej
+
+z tego powodu mimo że 1 jest bliżej jedynki niż 30, na 1 żadne dziecko nie kończy
+gdyby dodać jeden krok, sytuacja by się zmieniła 
+
